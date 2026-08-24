@@ -1,6 +1,6 @@
-# DS-Project-Comitato-Sagra [![Tests](https://github.com/LucaDematte/DS-Project-Comitato-Sagra/actions/workflows/gradle.yml/badge.svg)](https://github.com/LucaDematte/DS-Project-Comitato-Sagra/actions/workflows/gradle.yml)
+# Distributed Systems [![Tests](https://github.com/LucaDematte/DS-Project-Comitato-Sagra/actions/workflows/gradle.yml/badge.svg)](https://github.com/LucaDematte/DS-Project-Comitato-Sagra/actions/workflows/gradle.yml)
 
-Distributed Systems Project at UNITN
+Distributed Systems Project
 
 ## Group "Comitato Sagra"
 
@@ -16,4 +16,4 @@ The code is extensively documented with inline comments and debug prints. In add
 
 ### Presentation
 
-You can also find  the [slides](report/slides.pdf) used for the project presentation.
+You can also find  the [slides](report/slides.pdf) used for the project presentation
